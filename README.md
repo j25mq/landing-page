@@ -77,4 +77,5 @@ https://user-images.githubusercontent.com/107758701/208710967-498559c5-ef49-4dad
 # [Code owners](#code-owners)
 Website: https://www.juliemiquelard.com/ <br>
 Github: https://github.com/j25mq <br>
-Instagram: https://www.instagram.com/j25mq/
+Instagram: https://www.instagram.com/j25mq/ <br>
+Project led with Udacity
